@@ -1,8 +1,8 @@
-# WSUWP Plugin Skeleton
+# UAMSWP Plugin Skeleton
 
-[![Build Status](https://travis-ci.org/washingtonstateuniversity/WSUWP-Plugin-Skeleton.svg?branch=master)](https://travis-ci.org/washingtonstateuniversity/WSUWP-Plugin-Skeleton)
+[![Build Status](https://travis-ci.org/UAMS-Web/UAMSWP-Plugin-Skeleton.svg?branch=master)](https://travis-ci.org/UAMS-Web/UAMSWP-Plugin-Skeleton)
 
-A framework for building a WordPress plugin at WSU.
+A framework for building a WordPress plugin at UAMS (based on WSU framework).
 
 ## Initial setup
 
